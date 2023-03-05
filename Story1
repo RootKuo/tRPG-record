@@ -83,4 +83,4 @@ STR+SIZ,DB,Build
 - 機動力(MOV) = 8 (因為DEX和STR都大於SIZ)
 - 傷害加成(DB)與體格(Build)=0 (因為STR+SIZ=110)
 - 技能： 閃避(Dodge): DEX/2=35% 駕駛(Drive): 20% 射擊(Shoot): 40% 格鬥(Fight): 25% 鎖匠(Locksmith): 15% 藏匿(Hide): 20% 潛行(Sneak): 30% 圖書館使用(Library Use): 25%
-請先按照上述步驟，設定你自己的角色資訊及能力數值，並
+請先按照上述步驟，設定你自己的角色資訊及能力數值，並告訴我。
